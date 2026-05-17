@@ -1,0 +1,31 @@
+review_id,comment,title,rating,author,created_at,product_id,spid
+demo_001,"Sản phẩm rất tốt, đúng mô tả, giao hàng nhanh.",,5,Khach A,2026-05-01,75307228,75307229
+demo_002,"Đóng gói cẩn thận, dùng ổn định, sẽ ủng hộ lần sau.",,5,Khach B,2026-05-01,75307228,75307229
+demo_003,"Chất lượng tốt trong tầm giá, khá hài lòng.",,4,Khach C,2026-05-02,75307228,75307229
+demo_004,"Hàng đẹp, không bị trầy xước, nhận nhanh hơn dự kiến.",,5,Khach D,2026-05-02,75307228,75307229
+demo_005,"Màu sắc hơi khác hình nhưng vẫn chấp nhận được.",,3,Khach E,2026-05-03,75307228,75307229
+demo_006,"Dùng tạm ổn, chưa thấy điểm nổi bật.",,3,Khach F,2026-05-03,75307228,75307229
+demo_007,"Giao hàng trễ, trải nghiệm mua chưa tốt.",,2,Khach G,2026-05-04,75307228,75307229
+demo_008,"Sản phẩm bị lỗi nhẹ, shop phản hồi chậm.",,2,Khach H,2026-05-04,75307228,75307229
+demo_009,"Mới dùng vài hôm đã hỏng, khá thất vọng.",,1,Khach I,2026-05-05,75307228,75307229
+demo_010,"Hàng lỗi, chất lượng kém, không hài lòng.",,1,Khach J,2026-05-05,75307228,75307229
+demo_011,"Giá hợp lý, chất lượng đúng như mong đợi.",,4,Khach K,2026-05-06,75307228,75307229
+demo_012,"Shop tư vấn nhiệt tình, giao đúng hẹn.",,5,Khach L,2026-05-06,75307228,75307229
+demo_013,"Bao bì đẹp, sản phẩm nhìn chắc chắn.",,4,Khach M,2026-05-07,75307228,75307229
+demo_014,"Không quá xuất sắc nhưng dùng được.",,3,Khach N,2026-05-07,75307228,75307229
+demo_015,"Đóng gói sơ sài, hộp bị móp khi nhận.",,2,Khach O,2026-05-08,75307228,75307229
+demo_016,"Mùi khó chịu, trải nghiệm không tốt.",,1,Khach P,2026-05-08,75307228,75307229
+demo_017,"Sau khi đổi trả thì dùng ổn, hỗ trợ tạm được.",,3,Khach Q,2026-05-09,75307228,75307229
+demo_018,"Rất đáng tiền, chất lượng vượt kỳ vọng.",,5,Khach R,2026-05-09,75307228,75307229
+demo_019,"Hàng nhận đúng mẫu, cảm giác sử dụng tốt.",,4,Khach S,2026-05-10,75307228,75307229
+demo_020,"Chất liệu bình thường, không như quảng cáo.",,2,Khach T,2026-05-10,75307228,75307229
+demo_021,"Mua lần hai vẫn ổn, sẽ giới thiệu bạn bè.",,5,Khach U,2026-05-11,75307228,75307229
+demo_022,"Sản phẩm tạm ổn, cần cải thiện độ bền.",,3,Khach V,2026-05-11,75307228,75307229
+demo_023,"Không đáng tiền, trải nghiệm thất vọng.",,1,Khach W,2026-05-12,75307228,75307229
+demo_024,"Giao nhanh, nhân viên lịch sự, đánh giá tốt.",,5,Khach X,2026-05-12,75307228,75307229
+demo_025,"Dùng vài ngày thấy ổn, chưa gặp lỗi.",,4,Khach Y,2026-05-13,75307228,75307229
+demo_026,"Shop gửi thiếu phụ kiện, phải liên hệ lại.",,2,Khach Z,2026-05-13,75307228,75307229
+demo_027,"Sản phẩm bình thường, không quá tệ.",,3,Khach AA,2026-05-14,75307228,75307229
+demo_028,"Chất lượng tốt, đáng mua trong phân khúc này.",,5,Khach AB,2026-05-14,75307228,75307229
+demo_029,"Hình ảnh thực tế đẹp, đúng như mô tả.",,4,Khach AC,2026-05-15,75307228,75307229
+demo_030,"Bị lỗi ngay lần đầu sử dụng, không khuyến nghị.",,1,Khach AD,2026-05-15,75307228,75307229
