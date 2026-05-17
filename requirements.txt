@@ -5,3 +5,4 @@ plotly
 requests
 streamlit
 joblib
+skelearn
